@@ -1,0 +1,1 @@
+ALTER TABLE ilya_db.developers ADD salary int;
